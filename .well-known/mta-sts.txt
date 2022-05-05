@@ -1,0 +1,4 @@
+version: STSv1
+mode: none
+mx: *breatheoutbreathe.in
+max_age: 604800
